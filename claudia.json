@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "planets-executor",
+    "name": "planets",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "uhsiynvis5"
+  }
+}
